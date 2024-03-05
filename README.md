@@ -12,8 +12,9 @@ I am now working on C# and Java which are both really interesting.
 ## Currently working on...
 Mostly just securing a full-time job in Software Engineering which I am very excited about.  
   
-In what little spare time I currently have, I am working on Storytime.py which you  
+In what little spare time I currently have, I am working on Storytime.py which you
 will find in my repositories!  
+  
 (Please be kind, it's early days and I am working 60hrs/week at the moment!)
 
 <!--
