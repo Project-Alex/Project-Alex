@@ -3,10 +3,13 @@ Thank you for visiting!
 Hopefully this shows a little bit of what I'm about.  
 
 ## Currently learning...
-Currently I am just learning more and more code. 
+Currently focusing on C#. Basics are done, now onto bigger things and getting something  
+good up on here.  
+
+I just need a couple more hours in the day - 26 or 28 would be ideal!
   
 I have just finished a coding course from HyperionDev so,  
--- having (mostly) familiarised myself with Python --  
+-~- having (mostly) familiarised myself with Python -~-  
 I am now working on C# and Java which are both really interesting.   
 
 ## Currently working on...
