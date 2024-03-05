@@ -1,16 +1,13 @@
 # Welcome to my GitHub!
 Thank you for visiting!  
+  
 Hopefully this shows a little bit of what I'm about.  
 
 ## Currently learning...
 Currently focusing on C#. Basics are done, now onto bigger things and getting something  
-good up on here.  
+good up on here!  
 
 I just need a couple more hours in the day - 26 or 28 would be ideal!
-  
-I have just finished a coding course from HyperionDev so,  
-- - - having (mostly) familiarised myself with Python - - -  
-I am now working on C# and Java which are both really interesting.   
 
 ## Currently working on...
 Entirely focused on securing a full-time job in Software Engineering which I am very excited about.  
