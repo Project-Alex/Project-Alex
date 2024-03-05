@@ -2,8 +2,6 @@
 Thank you for visiting!  
 Hopefully this shows a little bit of what I'm about.  
 
-![profile picture](/a.jpg)
-
 ## Currently learning...
 Currently I am just learning more and more code. 
   
