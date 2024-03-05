@@ -10,8 +10,7 @@ that will go into my portfolio very soon.
 ## Currently learning...
 Currently focusing on C#.  
   
-The asics are done, now  moving onto bigger things and getting something  
-good up on here.  
+The asics are done, now  moving onto bigger things and getting something good up on here.  
 
 I just need a couple more hours in the day - 26 or 28 would be ideal!
 
@@ -19,8 +18,7 @@ I just need a couple more hours in the day - 26 or 28 would be ideal!
 Entirely focused on securing a full-time job in Software Engineering which I am very excited about.  
 
 ## Other...
-Aside from coding which I am transitioning into,  
-I also work (or have worked) with:
+Aside from coding which I am transitioning into, I also work (or have worked) with:
 - Marketing
 - Sales
 - Training and Development
