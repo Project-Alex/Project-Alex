@@ -5,8 +5,8 @@ Hopefully this shows a little bit of what I'm about.
 ## Currently learning...
 Currently I am just learning more and more code. 
   
-I have just finished a coding course from HyperionDev so,
--- having (mostly) familiarised myself with Python --
+I have just finished a coding course from HyperionDev so,  
+-- having (mostly) familiarised myself with Python --  
 I am now working on C# and Java which are both really interesting.   
 
 ## Currently working on...
