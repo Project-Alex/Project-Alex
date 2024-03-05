@@ -3,8 +3,8 @@ Thank you for visiting!
   
 Hopefully it shows a little bit of what I'm about.  
 
-RE: the lack of commits lately, I am just finishing a coding course from HyperionDev  
-as well as a massive marketing contract, so all the time I've had set aside for finishing  
+RE: the lack of commits lately, I am just finishing a coding course from HyperionDev as well as  
+a massive marketing/content production contract, so all the time I've had set aside for finishing  
 that will go into my portfolio very soon.
 
 ## Currently learning...
@@ -18,7 +18,7 @@ I just need a couple more hours in the day - 26 or 28 would be ideal!
 Entirely focused on securing a full-time job in Software Engineering which I am very excited about.  
 
 ## Other...
-Aside from coding which I am transitioning into, I also work (or have worked) with:
+Aside from coding, which I am transitioning into, I also work (or have worked) with:
 - Marketing
 - Sales
 - Training and Development
