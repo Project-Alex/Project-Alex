@@ -9,7 +9,7 @@ good up on here.
 I just need a couple more hours in the day - 26 or 28 would be ideal!
   
 I have just finished a coding course from HyperionDev so,  
--~- having (mostly) familiarised myself with Python -~-  
+- - - having (mostly) familiarised myself with Python - - -  
 I am now working on C# and Java which are both really interesting.   
 
 ## Currently working on...
